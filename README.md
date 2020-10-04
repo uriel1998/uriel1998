@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width=16px height=16px src="./icons/rss-solid.svg"><a href="http://feeds.feedburner.com/Ideatrash" target="_blank"></a>
-<img src="./icons/mastodon.svg"><a href="https://faithcollapsing.com/users/StevenSaus" target="_blank"></a>
-<img src="./icons/facebook-f.svg"><a href="http://www.facebook.com/pages/Steven-Saus/328725503674" target="_blank"></a>
-<img src="./icons/twitter.svg"><a href="http://www.twitter.com/uriel1998" target="_blank"></a>
-<img src="./icons/instagram.svg"><a href="https://www.instagram.com/uriel1998/" target="_blank"></a>
-<img src="./icons/goodreads.svg"><a href="http://www.goodreads.com/author/show/3145527.Steven_Saus" target="_blank"></a>
+<img width=32px height=32px src="./icons/rss-solid.svg"><a href="http://feeds.feedburner.com/Ideatrash" target="_blank"></a>
+<img width=32px height=32px src="./icons/mastodon.svg"><a href="https://faithcollapsing.com/users/StevenSaus" target="_blank"></a>
+<img width=32px height=32px src="./icons/facebook-f.svg"><a href="http://www.facebook.com/pages/Steven-Saus/328725503674" target="_blank"></a>
+<img width=32px height=32px src="./icons/twitter.svg"><a href="http://www.twitter.com/uriel1998" target="_blank"></a>
+<img width=32px height=32px src="./icons/instagram.svg"><a href="https://www.instagram.com/uriel1998/" target="_blank"></a>
+<img width=32px height=32px src="./icons/goodreads.svg"><a href="http://www.goodreads.com/author/show/3145527.Steven_Saus" target="_blank"></a>
 
-<img src="./icons/git.svg"><a href="https://git.faithcollapsing.com" target="_blank"></a>
-<img src="./icons/github.svg"><a href="https://github.com/uriel1998" target="_blank"></a>
-<img src="./icons/gitlab.svg"><a href="https://gitlab.com/uriel1998" target="_blank"></a>
-<img src="./icons/linkedin-in.svg"><a href="http://www.linkedin.com/in/stevensaus" target="_blank"></a>
-<img src="./icons/amazon.svg"><a href="https://www.amazon.com/author/stevensaus" target="_blank"></a>
+<img width=32px height=32px src="./icons/git.svg"><a href="https://git.faithcollapsing.com" target="_blank"></a>
+<img width=32px height=32px src="./icons/github.svg"><a href="https://github.com/uriel1998" target="_blank"></a>
+<img width=32px height=32px src="./icons/gitlab.svg"><a href="https://gitlab.com/uriel1998" target="_blank"></a>
+<img width=32px height=32px src="./icons/linkedin-in.svg"><a href="http://www.linkedin.com/in/stevensaus" target="_blank"></a>
+<img width=32px height=32px src="./icons/amazon.svg"><a href="https://www.amazon.com/author/stevensaus" target="_blank"></a>
 
 Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)
 

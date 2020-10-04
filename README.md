@@ -38,7 +38,6 @@ Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-sta
 <a target="_blank" href="https://github.com/anuraghazra/cgimpd"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=cgimpd" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/cmus_pls"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=cmus_pls" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/conky_cryptocurrency_info"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=conky_cryptocurrency_info" /></a>
-<a target="_blank" href="https://github.com/anuraghazra/daywall"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=daywall" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/ddwrt-who-is-connected"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=ddwrt-who-is-connected" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/dollop-of-book-covers"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=dollop-of-book-covers" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/ebook-utilz"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=ebook-utilz" /></a>
@@ -55,7 +54,7 @@ Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-sta
 <a target="_blank" href="https://github.com/anuraghazra/orindi"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=orindi" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/picframe_conky"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=picframe_conky" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/ppl_virdirsyncer_addysearch"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=ppl_virdirsyncer_addysearch" /></a>
-<a target="_blank" href="https://github.com/anuraghazra/quite_intriguing"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=quite_intriguing" /></a>
+<a target="_blank" href="https://github.com/anuraghazra/quite-intriguing"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=quite-intriguing" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/quotable"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=quotable" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/rtp_mpd_pulseaudio_switcher"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=rtp_mpd_pulseaudio_switcher" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/saurian-web-history-pollution"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=saurian-web-history-pollution" /></a>
@@ -83,7 +82,7 @@ Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-sta
 <a target="_blank" href="https://github.com/anuraghazra/xterm_icons"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=xterm_icons" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/yolo-mpd"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=yolo-mpd" /></a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/?username=uriel1998&include_all_commits=yes&repo=github-readme-stats)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/?username=uriel1998&include_all_commits=yes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uriel1998)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -89,4 +89,9 @@ Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-sta
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uriel1998)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- BLOG-POST-LIST:START -->
+- [Numbers, Honesty, And Surveys](https://ideatrash.net/2020/09/numbers-honesty-and-surveys.html)
+- [If You Understand This, You Missed The Singularity Too](https://ideatrash.net/2020/09/if-you-understand-this-you-missed-the-singularity-too.html)
+- [And We’ll Look Down, And We’ll Whisper](https://ideatrash.net/2020/09/and-well-look-down-and-well-whisper.html)
+- [Minimizing The Harasser](https://ideatrash.net/2020/09/minimizing-the-harasser.html)
+- [Zombie Sightings In The Wild](https://ideatrash.net/2020/08/zombie-sightings-in-the-wild.html)
 <!-- BLOG-POST-LIST:END -->

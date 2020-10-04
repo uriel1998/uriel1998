@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./icons/rss-solid.svg"><a href="http://feeds.feedburner.com/Ideatrash" target="_blank"></a>
+<img width=16px height=16px src="./icons/rss-solid.svg"><a href="http://feeds.feedburner.com/Ideatrash" target="_blank"></a>
 <img src="./icons/mastodon.svg"><a href="https://faithcollapsing.com/users/StevenSaus" target="_blank"></a>
 <img src="./icons/facebook-f.svg"><a href="http://www.facebook.com/pages/Steven-Saus/328725503674" target="_blank"></a>
 <img src="./icons/twitter.svg"><a href="http://www.twitter.com/uriel1998" target="_blank"></a>

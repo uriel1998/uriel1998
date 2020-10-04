@@ -1,21 +1,4 @@
-<link rel="stylesheet" href="https://stevensaus.com/css/line-awesome/font-awesome-line-awesome/css/all.min.css">
-
-### Hi there 👋
-
-<!--
-**uriel1998/uriel1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/?username=uriel1998&include_all_commits=yes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width=32px height=32px src="./icons/rss-solid.svg"><a href="http://feeds.feedburner.com/Ideatrash" target="_blank"></a>
 <img width=32px height=32px src="./icons/mastodon.svg"><a href="https://faithcollapsing.com/users/StevenSaus" target="_blank"></a>
@@ -23,14 +6,15 @@ Here are some ideas to get you started:
 <img width=32px height=32px src="./icons/twitter.svg"><a href="http://www.twitter.com/uriel1998" target="_blank"></a>
 <img width=32px height=32px src="./icons/instagram.svg"><a href="https://www.instagram.com/uriel1998/" target="_blank"></a>
 <img width=32px height=32px src="./icons/goodreads.svg"><a href="http://www.goodreads.com/author/show/3145527.Steven_Saus" target="_blank"></a>
-
 <img width=32px height=32px src="./icons/git.svg"><a href="https://git.faithcollapsing.com" target="_blank"></a>
 <img width=32px height=32px src="./icons/github.svg"><a href="https://github.com/uriel1998" target="_blank"></a>
 <img width=32px height=32px src="./icons/gitlab.svg"><a href="https://gitlab.com/uriel1998" target="_blank"></a>
 <img width=32px height=32px src="./icons/linkedin-in.svg"><a href="http://www.linkedin.com/in/stevensaus" target="_blank"></a>
 <img width=32px height=32px src="./icons/amazon.svg"><a href="https://www.amazon.com/author/stevensaus" target="_blank"></a>
 
-Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)
+Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)  
+
+
 <a target="_blank" href="https://github.com/anuraghazra/agaetr"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=agaetr" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/automatic_wondershaper_wombat"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=automatic_wondershaper_wombat" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/autosuspendscript"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=autosuspendscript" /></a>
@@ -82,9 +66,7 @@ Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-sta
 <a target="_blank" href="https://github.com/anuraghazra/xterm_icons"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=xterm_icons" /></a>
 <a target="_blank" href="https://github.com/anuraghazra/yolo-mpd"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=yolo-mpd" /></a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/?username=uriel1998&include_all_commits=yes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uriel1998)](https://github.com/anuraghazra/github-readme-stats)
+# Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Numbers, Honesty, And Surveys](https://ideatrash.net/2020/09/numbers-honesty-and-surveys.html)

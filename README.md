@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-            <ul class="social-links">
-                <li><a href="http://feeds.feedburner.com/Ideatrash" target="_blank"><i class="la la-rss"></i></a></li>
-                <li><a href="https://faithcollapsing.com/users/StevenSaus" target="_blank"><i class="lab la-mastodon"></i></a></li>
-                <li><a href="http://www.facebook.com/pages/Steven-Saus/328725503674" target="_blank"><i class="lab la-facebook-f"></i></a></li>
-                <li><a href="http://www.twitter.com/uriel1998" target="_blank"><i class="lab la-twitter"></i></a></li>
-                <li><a href="https://www.instagram.com/uriel1998/" target="_blank"><i class="lab la-instagram"></i></a></li>
-                <li><a href="http://www.goodreads.com/author/show/3145527.Steven_Saus" target="_blank"><i class="lab la-goodreads"></i></a></li>
-            </ul><ul class="social-links">
-                <li><a href="https://git.faithcollapsing.com" target="_blank"><i class="lab la-git"></i></a></li>
-                <li><a href="https://github.com/uriel1998" target="_blank"><i class="lab la-github"></i></a></li>
-                <li><a href="https://gitlab.com/uriel1998" target="_blank"><i class="lab la-gitlab"></i></a></li>
-                <li><a href="http://www.linkedin.com/in/stevensaus" target="_blank"><i class="lab la-linkedin-in"></i></a></li>
-                <li><a href="https://www.amazon.com/author/stevensaus" target="_blank"><i class="lab la-amazon"></i></a></li>
-            </ul>
+<ul class="social-links">
+<li><a href="http://feeds.feedburner.com/Ideatrash" target="_blank"><i class="la la-rss"></i></a></li>
+<li><a href="https://faithcollapsing.com/users/StevenSaus" target="_blank"><i class="lab la-mastodon"></i></a></li>
+<li><a href="http://www.facebook.com/pages/Steven-Saus/328725503674" target="_blank"><i class="lab la-facebook-f"></i></a></li>
+<li><a href="http://www.twitter.com/uriel1998" target="_blank"><i class="lab la-twitter"></i></a></li>
+<li><a href="https://www.instagram.com/uriel1998/" target="_blank"><i class="lab la-instagram"></i></a></li>
+<li><a href="http://www.goodreads.com/author/show/3145527.Steven_Saus" target="_blank"><i class="lab la-goodreads"></i></a></li>
+</ul><ul class="social-links">
+<li><a href="https://git.faithcollapsing.com" target="_blank"><i class="lab la-git"></i></a></li>
+<li><a href="https://github.com/uriel1998" target="_blank"><i class="lab la-github"></i></a></li>
+<li><a href="https://gitlab.com/uriel1998" target="_blank"><i class="lab la-gitlab"></i></a></li>
+<li><a href="http://www.linkedin.com/in/stevensaus" target="_blank"><i class="lab la-linkedin-in"></i></a></li>
+<li><a href="https://www.amazon.com/author/stevensaus" target="_blank"><i class="lab la-amazon"></i></a></li>
+</ul>
 
 Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)
 

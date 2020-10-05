@@ -12,7 +12,21 @@
 <img width=32px height=32px src="./icons/linkedin-in.svg"><a href="http://www.linkedin.com/in/stevensaus" target="_blank"></a>
 <img width=32px height=32px src="./icons/amazon.svg"><a href="https://www.amazon.com/author/stevensaus" target="_blank"></a>
 
-Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)  
+# Why I code
+
+I am *very* motivated by "Hey, that program doesn't work the way I want it to! 
+Let's bend it to my will!"  While my code isn't always optimized, I've worked 
+pretty hard to make it:
+
+1. A learning experience for me that fixes a problem/need I have.
+2. Easy to figure out how it works
+3. Resistant to bitrot ( *shakes fist at all the abandoned python2 programs* )
+4. Able for someone else to come along and fix any bitrot that happens if I'm 
+not able or around to do it myself.
+
+That's led to a lot of these being in BASH.  There's some BASHisms throughout, 
+so they're not exactly POSIX-compliant, but hopefully they're close enough that 
+someone who is better at such than I can easily tweak them.
 
 # Some (more than six!) repositories I'm especially happy with.
 
@@ -36,6 +50,8 @@ Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-sta
 <a target="_blank" href="https://github.com/uriel1998/vindauga"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=vindauga" /></a>
 <a target="_blank" href="https://github.com/uriel1998/weather.sh"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=weather.sh" /></a>
 <a target="_blank" href="https://github.com/uriel1998/yolo-mpd"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=yolo-mpd" /></a>
+
+Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)  
 
 # Recent blog posts
 

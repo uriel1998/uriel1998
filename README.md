@@ -56,9 +56,9 @@ Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-sta
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyone Is The Hero…Except They’re Not](https://ideatrash.net/2020/10/everyone-is-the-hero-except-theyre-not.html)
 - [A TMUX Devours A Bar](https://ideatrash.net/2020/10/a-tmux-devours-a-bar.html)
 - [Numbers, Honesty, And Surveys](https://ideatrash.net/2020/09/numbers-honesty-and-surveys.html)
 - [If You Understand This, You Missed The Singularity Too](https://ideatrash.net/2020/09/if-you-understand-this-you-missed-the-singularity-too.html)
 - [And We’ll Look Down, And We’ll Whisper](https://ideatrash.net/2020/09/and-well-look-down-and-well-whisper.html)
-- [Minimizing The Harasser](https://ideatrash.net/2020/09/minimizing-the-harasser.html)
 <!-- BLOG-POST-LIST:END -->

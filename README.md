@@ -53,12 +53,3 @@ someone who is better at such than I can easily tweak them.
 
 Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)  
 
-# Recent blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [MAN, it’s APROPOS. TL;DR: A fix to too many CHEAT sheets](https://ideatrash.net/2020/10/man-its-apropos-tldr-a-fix-to-too-many-cheat-sheets.html)
-- [Everyone Is The Hero…Except They’re Not](https://ideatrash.net/2020/10/everyone-is-the-hero-except-theyre-not.html)
-- [A TMUX Devours A Bar](https://ideatrash.net/2020/10/a-tmux-devours-a-bar.html)
-- [Numbers, Honesty, And Surveys](https://ideatrash.net/2020/09/numbers-honesty-and-surveys.html)
-- [If You Understand This, You Missed The Singularity Too](https://ideatrash.net/2020/09/if-you-understand-this-you-missed-the-singularity-too.html)
-<!-- BLOG-POST-LIST:END -->

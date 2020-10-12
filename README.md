@@ -1,16 +1,16 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/?username=uriel1998&include_all_commits=yes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width=32px height=32px src="./icons/rss-solid.svg"><a href="http://feeds.feedburner.com/Ideatrash" target="_blank"></a>
-<img width=32px height=32px src="./icons/mastodon.svg"><a href="https://faithcollapsing.com/users/StevenSaus" target="_blank"></a>
-<img width=32px height=32px src="./icons/facebook-f.svg"><a href="http://www.facebook.com/pages/Steven-Saus/328725503674" target="_blank"></a>
-<img width=32px height=32px src="./icons/twitter.svg"><a href="http://www.twitter.com/uriel1998" target="_blank"></a>
-<img width=32px height=32px src="./icons/instagram.svg"><a href="https://www.instagram.com/uriel1998/" target="_blank"></a>
-<img width=32px height=32px src="./icons/goodreads.svg"><a href="http://www.goodreads.com/author/show/3145527.Steven_Saus" target="_blank"></a>
-<img width=32px height=32px src="./icons/git.svg"><a href="https://git.faithcollapsing.com" target="_blank"></a>
-<img width=32px height=32px src="./icons/github.svg"><a href="https://github.com/uriel1998" target="_blank"></a>
-<img width=32px height=32px src="./icons/gitlab.svg"><a href="https://gitlab.com/uriel1998" target="_blank"></a>
-<img width=32px height=32px src="./icons/linkedin-in.svg"><a href="http://www.linkedin.com/in/stevensaus" target="_blank"></a>
-<img width=32px height=32px src="./icons/amazon.svg"><a href="https://www.amazon.com/author/stevensaus" target="_blank"></a>
+<a href="http://feeds.feedburner.com/Ideatrash" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/rss-solid.svg"></a>
+<a href="https://faithcollapsing.com/users/StevenSaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/mastodon.svg"></a>
+<a href="http://www.facebook.com/pages/Steven-Saus/328725503674" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/facebook-f.svg"></a>
+<a href="http://www.twitter.com/uriel1998" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/twitter.svg"></a>
+<a href="https://www.instagram.com/uriel1998/" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/instagram.svg"></a>
+<a href="http://www.goodreads.com/author/show/3145527.Steven_Saus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/goodreads.svg"></a>
+<a href="https://git.faithcollapsing.com" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/git.svg"></a>
+<a href="https://github.com/uriel1998" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/github.svg"></a>
+<a href="https://gitlab.com/uriel1998" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/gitlab.svg"></a>
+<a href="http://www.linkedin.com/in/stevensaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/linkedin-in.svg"></a>
+<a href="https://www.amazon.com/author/stevensaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/amazon.svg"></a>
 
 # Why I code
 
@@ -28,28 +28,111 @@ That's led to a lot of these being in BASH.  There's some BASHisms throughout,
 so they're not exactly POSIX-compliant, but hopefully they're close enough that 
 someone who is better at such than I can easily tweak them.
 
-# Some (more than six!) repositories I'm especially happy with.
+------------------------------------------------------------------------------
+# Programming Work
 
-<a target="_blank" href="https://github.com/uriel1998/tdab"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=tdab" /></a>
-<a target="_blank" href="https://github.com/uriel1998/agaetr"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=agaetr" /></a>
-<a target="_blank" href="https://github.com/uriel1998/automatic_wondershaper_wombat"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=automatic_wondershaper_wombat" /></a>
-<a target="_blank" href="https://github.com/uriel1998/ddwrt-who-is-connected"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=ddwrt-who-is-connected" /></a>
-<a target="_blank" href="https://github.com/uriel1998/khalo"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=khalo" /></a>
-<a target="_blank" href="https://github.com/uriel1998/mpdq"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=mpdq" /></a>
-<a target="_blank" href="https://github.com/uriel1998/muna"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=muna" /></a>
-<a target="_blank" href="https://github.com/uriel1998/newsbeuter-dangerzone"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=newsbeuter-dangerzone" /></a>
-<a target="_blank" href="https://github.com/uriel1998/orindi"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=orindi" /></a>
-<a target="_blank" href="https://github.com/uriel1998/ppl_virdirsyncer_addysearch"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=ppl_virdirsyncer_addysearch" /></a>
-<a target="_blank" href="https://github.com/uriel1998/quite-intriguing"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=quite-intriguing" /></a>
-<a target="_blank" href="https://github.com/uriel1998/quotable"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=quotable" /></a>
-<a target="_blank" href="https://github.com/uriel1998/showdocs-wombat"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=showdocs-wombat" /></a>
-<a target="_blank" href="https://github.com/uriel1998/skipa"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=skipa" /></a>
-<a target="_blank" href="https://github.com/uriel1998/surfraw_ob"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=surfraw_ob" /></a>
-<a target="_blank" href="https://github.com/uriel1998/thuit"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=thuit" /></a>
-<a target="_blank" href="https://github.com/uriel1998/ufw-iptables-archer"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=ufw-iptables-archer" /></a>
-<a target="_blank" href="https://github.com/uriel1998/vindauga"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=vindauga" /></a>
-<a target="_blank" href="https://github.com/uriel1998/weather.sh"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=weather.sh" /></a>
-<a target="_blank" href="https://github.com/uriel1998/yolo-mpd"><img align="center" alt="ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=uriel1998&repo=yolo-mpd" /></a>
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/tdab"><img width="60px" src="https://github.com/uriel1998/tdab/raw/master/tdab-icon.png"></a></div>
 
-Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)  
+## <a target="_blank" href="https://uriel1998.github.io/tdab">tdab</a>  
+
+Create side and top bars in tmux easily, along with a "devour" style command.
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/agaetr"><img width="60px" src="https://github.com/uriel1998/agaetr/raw/master/agaetr-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr</a>  
+
+Modular scripts to take text, images, and links from RSS feeds and push to social media 
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/automatic_wondershaper_wombat"><img width="60px" src="https://github.com/uriel1998/automatic_wondershaper_wombat/raw/master/automatic_wondershaper_wombat-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/automatic_wondershaper_wombat">automatic_wondershaper_wombat</a>  
+
+A script in bash (with some assorted tools) to collect info about available bandwidth and to perform traffic shaping  
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ddwrt-who-is-connected"><img width="60px" src="https://github.com/uriel1998/ddwrt-who-is-connected/raw/master/ddwrt-who-is-connected-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/ddwrt-who-is-connected">ddwrt-who-is-connected</a>  
+
+A script to output who all is actively connected to your DD-WRT router 
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/khalo"><img width="60px" src="https://github.com/uriel1998/khalo/raw/master/khalo-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/khalo">khalo</a>  
+
+A selfhosted way to create images with quotations using fortune, imgmagick, and 
+unsplash.it to create your own quotation porn.  
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/mpdq"><img width="60px" src="https://github.com/uriel1998/mpdq/raw/master/mpdq-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/mpdq">mpdq</a>  
+
+Automatic MPD "smart playlist" creator in bash with minimal but hackable setup. 
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/muna"><img width="60px" src="https://github.com/uriel1998/muna/raw/master/muna-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/muna">muna</a>  
+
+Clean a series of links, resolving redirects and finding Wayback results if page is gone 
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/newsbeuter-dangerzone"><img width="60px" src="https://github.com/uriel1998/newsbeuter-dangerzone/raw/master/dangerzone-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/newsbeuter-dangerzone">newsbeuter-dangerzone</a>  
+
+Enhanced, modular, bookmarking for newsboat, newsbeuter, or (for that matter) 
+anything that can pass a title and an URL to a program.
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/orindi"><img width="60px" src="https://github.com/uriel1998/orindi/raw/master/orindi-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/orindi">orindi</a>  
+
+Transform your e-mail newsletters into webpages and an RSS feed.   
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ppl_virdirsyncer_addysearch"><img width="60px" src="https://github.com/uriel1998/ppl_virdirsyncer_addysearch/raw/master/pplsearch-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/ppl_virdirsyncer_addysearch">ppl_virdirsyncer_addysearch</a>  
+
+A GUI/TUI addressbook searcher/viewer for use with a mess of vcards
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/quite-intriguing"><img width="60px" src="https://github.com/uriel1998/quite-intriguing/raw/master/qi-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/quite-intriguing">quite-intriguing</a>  
+
+Find the right manpage or cheatsheet, easily. 
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/showdocs-wombat"><img width="60px" src="https://github.com/uriel1998/showdocs-wombat/raw/master/showdocs-wombat-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/showdocs-wombat">showdocs-wombat</a>  
+
+Parsing and converting documents on the fly in the terminal (or with a terminal popup) 
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/skipa"><img width="60px" src="https://github.com/uriel1998/skipa/raw/master/skipa-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/skipa">skipa</a>  
+
+BASH/YAD script to Read and fix PDF tags in filenames and exif metadata
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ufw-iptables-archer"><img width="60px" src="https://github.com/uriel1998/ufw-iptables-archer/raw/master/ufw-iptables-archer-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/ufw-iptables-archer">ufw-iptables-archer</a>  
+
+Simplifying (I hope) UFW and iptables, includes a utility to get blocklists and incorporate them. 
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/vindauga"><img width="60px" src="https://github.com/uriel1998/vindauga/raw/master/vindauga-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/vindauga">vindauga</a>  
+
+Download and display album art or display embedded (or folder-based) album art. Designed to work with MPD, the music player daemon.
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/weather.sh"><img width="60px" src="https://github.com/uriel1998/weather.sh/raw/master/weather-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/weather.sh">weather.sh</a>  
+
+A bash script to get the weather from OpenWeatherMap and output to the terminal, Openbox, or HTML 
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/yolo-mpd"><img width="60px" src="https://github.com/uriel1998/yolo-mpd/raw/master/yolo-mpd-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/yolo-mpd">yolo-mpd</a>  
+
+Various music-related tweaks/tips/scripts. Includes fuzzy selection of artist/genre/album script and albumart in the console script 
+
 

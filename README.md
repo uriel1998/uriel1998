@@ -135,4 +135,11 @@ A bash script to get the weather from OpenWeatherMap and output to the terminal,
 
 Various music-related tweaks/tips/scripts. Includes fuzzy selection of artist/genre/album script and albumart in the console script 
 
+## <a target="_blank" href="https://uriel1998.github.io/cgimpd">khalo</a>  
+
+Using BASH to create a quick web based lyrics/art view of a playing MPD 
+instance, and using BASH and CGI to implement a web-based remote control for 
+MPD.
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/cgimpd"><img width="60px" src="https://github.com/uriel1998/mpdq/raw/master/cgimpd-icon.png"></a></div>
 

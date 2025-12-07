@@ -2,15 +2,11 @@
 
 <a href="http://feeds.feedburner.com/Ideatrash" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/rss-solid.svg"></a>
 <a rel="me" href="https://faithcollapsing.com/users/StevenSaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/mastodon.svg"></a>
-<a rel="me" href="http://www.facebook.com/pages/Steven-Saus/328725503674" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/facebook-f.svg"></a>
-<a rel="me" href="http://www.twitter.com/uriel1998" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/twitter.svg"></a>
-<a rel="me" href="https://www.instagram.com/uriel1998/" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/instagram.svg"></a>
 <a href="http://www.goodreads.com/author/show/3145527.Steven_Saus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/goodreads.svg"></a>
 <a rel="me" href="https://git.faithcollapsing.com" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/git.svg"></a>
 <a rel="me" href="https://github.com/uriel1998" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/github.svg"></a>
 <a rel="me" href="https://gitlab.com/uriel1998" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/gitlab.svg"></a>
 <a rel="me" href="http://www.linkedin.com/in/stevensaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/linkedin-in.svg"></a>
-<a href="https://www.amazon.com/author/stevensaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/amazon.svg"></a>
 
 # Why I code
 
@@ -31,29 +27,49 @@ someone who is better at such than I can easily tweak them.
 ------------------------------------------------------------------------------
 # Programming Work
 
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/tdab"><img width="60px" src="https://github.com/uriel1998/tdab/raw/master/tdab-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/tdab">tdab</a>  
-
-Create side and top bars in tmux easily, along with a "devour" style command.
-
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/agaetr"><img width="60px" src="https://github.com/uriel1998/agaetr/raw/master/agaetr-icon.png"></a></div>
 
 ## <a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr</a>  
 
 Modular scripts to take text, images, and links from RSS feeds and push to social media 
 
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/automatic_wondershaper_wombat"><img width="60px" src="https://github.com/uriel1998/automatic_wondershaper_wombat/raw/master/automatic_wondershaper_wombat-icon.png"></a></div>
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ytcs"><img width="60px" src="https://github.com/uriel1998/ytcs/raw/master/ytcs-icon.png"></a></div>
 
-## <a target="_blank" href="https://uriel1998.github.io/automatic_wondershaper_wombat">automatic_wondershaper_wombat</a>  
+## <a target="_blank" href="https://uriel1998.github.io/ytcs">ytcs</a>  
 
-A script in bash (with some assorted tools) to collect info about available bandwidth and to perform traffic shaping  
+Tying together `yt-dlp`, `mpv`, `rofi`, and RSS to be able to watch subscriptions without feeding the machine.
+
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/mpdq"><img width="60px" src="https://github.com/uriel1998/mpdq/raw/master/mpdq-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/mpdq">mpdq</a>  
+
+Automatic MPD "smart playlist" creator in bash with minimal but hackable setup. 
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/daywall/"><img width="60px" src="https://github.com/uriel1998/daywall/blob/master/daywall-icon.png?raw=true"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/daywall/">daywall</a>  
+
+This script tries to adjust the brightness of randomly chosen backgrounds to match the time of day.
+
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/tdab"><img width="60px" src="https://github.com/uriel1998/tdab/raw/master/tdab-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/tdab">tdab</a>  
+
+Create side and top bars in tmux easily, along with a "devour" style command.
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/networkcontrol-wicd-networkmanager/"><img width="60px" src="https://github.com/uriel1998/networkcontrol-wicd-networkmanager/blob/master/nmm-icon.png?raw=true"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/networkcontrol-wicd-networkmanager/">network-middle-manager</a>  
+
+I wrote a bash script that - like the defunct Cuttlefish program - runs programs in userspace on network change.
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ddwrt-who-is-connected"><img width="60px" src="https://github.com/uriel1998/ddwrt-who-is-connected/raw/master/ddwrt-who-is-connected-icon.png"></a></div>
 
 ## <a target="_blank" href="https://uriel1998.github.io/ddwrt-who-is-connected">ddwrt-who-is-connected</a>  
 
-A script to output who all is actively connected to your DD-WRT router 
+Scripts to output who all is actively connected and to programatically open and close port forwards to your DD-WRT router
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/khalo"><img width="60px" src="https://github.com/uriel1998/khalo/raw/master/khalo-icon.png"></a></div>
 
@@ -61,12 +77,6 @@ A script to output who all is actively connected to your DD-WRT router
 
 A selfhosted way to create images with quotations using fortune, imgmagick, and 
 unsplash.it to create your own quotation porn.  
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/mpdq"><img width="60px" src="https://github.com/uriel1998/mpdq/raw/master/mpdq-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/mpdq">mpdq</a>  
-
-Automatic MPD "smart playlist" creator in bash with minimal but hackable setup. 
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/muna"><img width="60px" src="https://github.com/uriel1998/muna/raw/master/muna-icon.png"></a></div>
 
@@ -105,12 +115,6 @@ Find the right manpage or cheatsheet, easily.
 
 Parsing and converting documents on the fly in the terminal (or with a terminal popup) 
 
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/skipa"><img width="60px" src="https://github.com/uriel1998/skipa/raw/master/skipa-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/skipa">skipa</a>  
-
-BASH/YAD script to Read and fix PDF tags in filenames and exif metadata
-
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ufw-iptables-archer"><img width="60px" src="https://github.com/uriel1998/ufw-iptables-archer/raw/master/ufw-iptables-archer-icon.png"></a></div>
 
 ## <a target="_blank" href="https://uriel1998.github.io/ufw-iptables-archer">ufw-iptables-archer</a>  
@@ -135,11 +139,4 @@ A bash script to get the weather from OpenWeatherMap and output to the terminal,
 
 Various music-related tweaks/tips/scripts. Includes fuzzy selection of artist/genre/album script and albumart in the console script 
 
-## <a target="_blank" href="https://uriel1998.github.io/cgimpd">khalo</a>  
-
-Using BASH to create a quick web based lyrics/art view of a playing MPD 
-instance, and using BASH and CGI to implement a web-based remote control for 
-MPD.
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/cgimpd"><img width="60px" src="https://github.com/uriel1998/mpdq/raw/master/cgimpd-icon.png"></a></div>
 

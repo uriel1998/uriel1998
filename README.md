@@ -1,4 +1,4 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/?username=uriel1998&include_all_commits=yes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Steven's GitHub stats](./profile/stats.svg)
 
 <a href="http://feeds.feedburner.com/Ideatrash" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/rss-solid.svg"></a>
 <a rel="me" href="https://faithcollapsing.com/users/StevenSaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/mastodon.svg"></a>

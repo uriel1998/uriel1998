@@ -24,207 +24,239 @@ someone who is better at such than I can easily tweak them.
 
 ------------------------------------------------------------------------------
 # Programming Work
+
 ### Standalone Programs and Utilities
 
-[![ppl_virdirsyncer_addysearch](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=ppl_virdirsyncer_addysearch%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/ppl_virdirsyncer_addysearch)
+#### <a target="_blank" href="https://uriel1998.github.io/ppl_virdirsyncer_addysearch">ppl_virdirsyncer_addysearch</a>  
+
 A GUI/TUI addressbook searcher/viewer for use with a mess of vcards
 
-[![ytcs](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=ytcs%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/ytcs)
+#### <a target="_blank" href="https://github.com/uriel1998/ytcs">ytcs</a>  
 Tie together yt-dlp, Rofi, mpv, and YouTube subscriptions for quick video browsing and playback.
 
-[![bash-the-tarot](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=bash-the-tarot%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/bash-the-tarot)
+#### <a target="_blank" href="https://github.com/uriel1998/bash-the-tarot">bash-the-tarot</a>  
 A command-line tarot reader with card images and interpretations.
 
-[![gpgfinder](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=gpgfinder%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/gpgfinder)
+#### <a target="_blank" href="https://github.com/uriel1998/gpgfinder">gpgfinder</a>  
 A shell interface for finding and adding GPG signatures from keyservers.
 
-[![quite-intriguing](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=quite-intriguing%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/quite-intriguing)
+#### <a target="_blank" href="https://uriel1998.github.io/quite-intriguing">quite-intriguing</a>  
+
 Find the right manpage or cheatsheet, easily. 
 
-[![newsbeuter-dangerzone](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=newsbeuter-dangerzone%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/newsbeuter-dangerzone)
+#### <a target="_blank" href="https://uriel1998.github.io/newsbeuter-dangerzone">newsbeuter-dangerzone</a>  
+
 Enhanced, modular, bookmarking for newsboat, newsbeuter, or (for that matter) 
 anything that can pass a title and an URL to a program.
 
-[![orindi](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=orindi%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/orindi)
+#### <a target="_blank" href="https://uriel1998.github.io/orindi">orindi</a>  
+
 Transform your e-mail newsletters into webpages and an RSS feed.   
 
-[![muna](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=muna%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/muna)
+#### <a target="_blank" href="https://uriel1998.github.io/muna">muna</a>  
+
 Clean a series of links, resolving redirects and finding Wayback results if page is gone 
 
-[![tdab](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=tdab%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/tdab)
+
+#### <a target="_blank" href="https://uriel1998.github.io/tdab">tdab</a>  
+
 Create side and top bars in tmux easily, along with a "devour" style command.
 
-[![things in multiple_scripts](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=multiple_scripts%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/multiple_scripts)
+
+#### <a target="_blank" href="https://github.com/uriel1998/multiple_scripts">things in multiple_scripts</a>  
 A collection of useful standalone scripts that do not require separate repositories.
 
-[![daywall](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=daywall%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/daywall)
+#### <a target="_blank" href="https://github.com/uriel1998/daywall">daywall</a>  
 A Bash script that automatically selects an appropriate wallpaper based on the time of day.
 
-[![xterm_icons](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=xterm_icons%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/xterm_icons)
+#### <a target="_blank" href="https://github.com/uriel1998/xterm_icons">xterm_icons</a>  
 A script that gives xterm windows different colored icons to make terminals easier to distinguish.
 
-[![xfce4-genmon-script](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=xfce4-genmon-script%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/xfce4-genmon-script)
+#### <a target="_blank" href="https://github.com/uriel1998/xfce4-genmon-script">xfce4-genmon-script</a>  
 Two scripts for the XFCE4 Genmon panel plugin that display system and network information on a horizontal panel.
 
-[![unipicker](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=unipicker%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/unipicker)
+#### <a target="_blank" href="https://github.com/uriel1998/unipicker">unipicker</a>  
 Search for Unicode characters in the console and copy them to the clipboard.
 
-[![neomutt-file-picker](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=neomutt-file-picker%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/neomutt-file-picker)
+#### <a target="_blank" href="https://github.com/uriel1998/neomutt-file-picker">neomutt-file-picker</a>  
 A shell-based file picker for attaching and saving files in NeoMutt.
 
-[![surfraw_ob](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=surfraw_ob%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/surfraw_ob)
+#### <a target="_blank" href="https://github.com/uriel1998/surfraw_ob">surfraw_ob</a>  
 An Openbox launcher for Surfraw web searches.
 
-[![xeleris](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=xeleris%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/xeleris)
+#### <a target="_blank" href="https://github.com/uriel1998/xeleris">xeleris</a>  
 A collection of scripts for working with the Xeleris Molecular Imaging System.
 
-[![ddwrt-who-is-connected](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=ddwrt-who-is-connected%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/ddwrt-who-is-connected)
+#### <a target="_blank" href="https://github.com/uriel1998/ddwrt-who-is-connected">ddwrt-who-is-connected</a>  
 Show devices connected to a DD-WRT router and programmatically open or close port forwards.
 
 ***
 ### Tweaked Utilities
 
-[![PDFMtEd](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=PDFMtEd%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/PDFMtEd)
+#### <a target="_blank" href="https://github.com/uriel1998/PDFMtEd">PDFMtEd</a>  
 A graphical Linux utility for viewing and modifying PDF metadata.
 
-[![local-zotero-mirror](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=local-zotero-mirror%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/local-zotero-mirror)
+#### <a target="_blank" href="https://github.com/uriel1998/local-zotero-mirror">local-zotero-mirror</a>  
 An Obsidian plugin that mirrors Zotero metadata and native notes into local Markdown files.
 
-[![local-zotero-bridge](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=local-zotero-bridge%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/local-zotero-bridge)
+#### <a target="_blank" href="https://github.com/uriel1998/local-zotero-bridge">local-zotero-bridge</a>  
 A Zotero plugin that exposes local metadata for use by Local Zotero Mirror.
 
-[![Roll205eSheetImport](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=Roll205eSheetImport%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/Roll205eSheetImport)
+#### <a target="_blank" href="https://github.com/uriel1998/Roll205eSheetImport">Roll205eSheetImport</a>  
 A Roll20 API script that imports character sheets from text copied from PDFs.
-[![phwmon](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=phwmon%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/phwmon)
+
+#### <a target="_blank" href="https://github.com/uriel1998/phwmon">phwmon</a>  
 A hardware-monitoring utility that displays system information in a desktop system-tray icon.
 
-[![volumerb](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=volumerb%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/volumerb)
+#### <a target="_blank" href="https://github.com/uriel1998/volumerb">volumerb</a>  
 Command-line scripts for controlling volume and muting through PulseAudio or PipeWire.
-[![python_tumblr_poster](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=python_tumblr_poster%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/python_tumblr_poster)
+
+#### <a target="_blank" href="https://github.com/uriel1998/python_tumblr_poster">python_tumblr_poster</a>  
 A Python 3 implementation of the gotumblr posting syntax.
 
-[![Hint](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=Hint%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/Hint)
+#### <a target="_blank" href="https://github.com/uriel1998/Hint">Hint</a>  
 A Roll20 API script that sends selected players location hints accompanied by a map ping.
 
-[![pbin](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=pbin%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/pbin)
+#### <a target="_blank" href="https://github.com/uriel1998/pbin">pbin</a>  
 A command-line client for Stikked-based pastebin services.
 
-[![obdevicemenu_udisks2_bash](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=obdevicemenu_udisks2_bash%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/obdevicemenu_udisks2_bash)
+#### <a target="_blank" href="https://github.com/uriel1998/obdevicemenu_udisks2_bash">obdevicemenu_udisks2_bash</a>  
 A Bash implementation of obdevicemenu that uses UDisks2.
-[![antiword-xp-rb](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=antiword-xp-rb%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/antiword-xp-rb)
+#### <a target="_blank" href="https://github.com/uriel1998/antiword-xp-rb">antiword-xp-rb</a>  
 A Ruby utility for extracting text from DOCX and DOC files, with DOC support supplied by antiword.
 
 ***
 ### Nextcloud / XMPP / Jitsi / Discord Chat Tools And Bots
 
-[![nextcloud_stickerpicker](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=nextcloud_stickerpicker%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/nextcloud_stickerpicker)
+#### <a target="_blank" href="https://github.com/uriel1998/nextcloud_stickerpicker">nextcloud_stickerpicker</a>  
 A sticker picker integration for NextCloud Talk.
 
-[![discord_talk_backfill](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=discord_talk_backfill%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/discord_talk_backfill)
+#### <a target="_blank" href="https://github.com/uriel1998/discord_talk_backfill">discord_talk_backfill</a>  
 A Python script that uses Matterbridge configuration to backfill NextCloud Talk from Discord text channels.
 
-[![jitsi-bot](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=jitsi-bot%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/jitsi-bot)
+#### <a target="_blank" href="https://github.com/uriel1998/jitsi-bot">jitsi-bot</a>  
 A collection of browser-based Jitsi Meet bots intended primarily for self-hosted Jitsi installations.
 
-[![die_roller_bot](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=die_roller_bot%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/die_roller_bot)
+#### <a target="_blank" href="https://github.com/uriel1998/die_roller_bot">die_roller_bot</a>  
 A NextCloud Talk bot that rolls dice, draws tarot cards, responds to commands, and provides stored information.
 
-[![geneassay](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=geneassay%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/geneassay)
+#### <a target="_blank" href="https://github.com/uriel1998/geneassay">geneassay</a>  
 A lightweight Linux manager for custom Discord Rich Presence with GUI, daemon, and scripted update modes.
 
-[![virtual_microphone](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=virtual_microphone%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/virtual_microphone)
+#### <a target="_blank" href="https://github.com/uriel1998/virtual_microphone">virtual_microphone</a>  
 A Bash script that simplifies creating and using virtual microphones with or without audio muxing.
+
 ***
 ### eBook Utilities
 
-[![ebook-utilz](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=ebook-utilz%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/ebook-utilz)
+#### <a target="_blank" href="https://github.com/uriel1998/ebook-utilz">ebook-utilz</a>  
 A collection of utilities used for ebook creation.
 
-[![dollop_of_book_covers](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=dollop-of-book-covers%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/dollop-of-book-covers)
+#### <a target="_blank" href="https://github.com/uriel1998/dollop-of-book-covers">dollop_of_book_covers</a>  
 A Bash script that extracts book covers from a Calibre library, optionally resizes them, and copies them to a chosen location.
 
-[![books_browse](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=books_browse%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/books_browse)
+#### <a target="_blank" href="https://github.com/uriel1998/books_browse">books_browse</a>  
 Browse and search a Calibre library with fzf, preview book metadata, and open selected books in a preferred reader.
 
-[![sync_foliate_moon](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=sync_foliate_moon%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/sync_foliate_moon)
+#### <a target="_blank" href="https://github.com/uriel1998/sync_foliate_moon">sync_foliate_moon</a>  
 A Python script that mostly synchronizes ebook reading positions between Foliate and Moon+ Reader.
 
-[![epw](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=epw%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/epw)
+#### <a target="_blank" href="https://github.com/uriel1998/epw">epw</a>  
 A command-line ebook reader for EPUB, FB2, and MOBI files forked from epy and epr to resolve dependency issues.
+
 ***
 ### Music related (many using the Music Player Daemon)
 
-[![rofi-mpd](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=rofi_mpd%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/rofi_mpd)
+#### <a target="_blank" href="https://github.com/uriel1998/rofi_mpd">rofi-mpd</a>  
 A Rofi-based interface for browsing and controlling an MPD music library.
 
-[![mpdcontrol](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=mpdcontrol%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/mpdcontrol)
+#### <a target="_blank" href="https://github.com/uriel1998/mpdcontrol">mpdcontrol</a>  
 Use fzf and related terminal tools to browse, control, and manage MPD playback.
 
-[![yolo-mpd](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=yolo-mpd%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/yolo-mpd)
+#### <a target="_blank" href="https://github.com/uriel1998/yolo-mpd">yolo-mpd</a>  
 Various MPD-related scripts and tips, including fuzzy music selection and terminal album-art display.
 
-[![simple_listen_to_di](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=simple_listen_to_di%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/simple_listen_to_di)
+#### <a target="_blank" href="https://github.com/uriel1998/simple_listen_to_di">simple_listen_to_di</a>  
 Listen to Digitally Imported streams from the console using a paid subscription.
 
-[![yolo-mpd](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=yolo-mpd%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/yolo-mpd)
+#### <a target="_blank" href="https://uriel1998.github.io/yolo-mpd">yolo-mpd</a>  
+
 Various music-related tweaks/tips/scripts. Includes fuzzy selection of artist/genre/album script and albumart in the console script 
-[![mpdq](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=mpdq%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/mpdq)
+
+#### <a target="_blank" href="https://uriel1998.github.io/mpdq">mpdq</a>  
+
 Automatic MPD "smart playlist" creator in bash with minimal but hackable setup. 
 
-[![vindauga](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=vindauga%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/vindauga)
+#### <a target="_blank" href="https://uriel1998.github.io/vindauga">vindauga</a>  
+
 Download and display album art or display embedded (or folder-based) album art. Designed to work with MPD, the music player daemon.
 
-[![rtp_mpd_pulseaudio_switcher](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=rtp_mpd_pulseaudio_switcher%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/rtp_mpd_pulseaudio_switcher)
+#### <a target="_blank" href="https://github.com/uriel1998/rtp_mpd_pulseaudio_switcher">rtp_mpd_pulseaudio_switcher</a>  
 Switch MPD outputs to enable or disable RTP multicast audio across a local network.
 
-[![symmusic](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=symmusic%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/symmusic)
+#### <a target="_blank" href="https://github.com/uriel1998/symmusic">symmusic</a>  
 Build a directory structure of symbolic links from audio-file tags.
+
 ***
 ### Social Media Distribution
 
-[![agaetr](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=agaetr%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/agaetr)
+#### <a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr</a>  
+
 Modular scripts to take text, images, and links from RSS feeds and push to social media 
 
-[![gov_comment](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=gov_comment%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/gov_comment)
+#### <a target="_blank" href="https://github.com/uriel1998/gov_comment">gov_comment</a>  
 Retrieve United States federal requests for public comment and distribute them through RSS and Mastodon.
+
 ***
 ### Weather / Barometric Pressure Related
 
-[![barometers](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=barometers%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/barometers)
+#### <a target="_blank" href="https://github.com/uriel1998/barometers">barometers</a>  
 Collect and visualize current and historical barometric-pressure data to make rapid pressure changes easier to interpret.
 
-[![weather.sh](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=weather.sh%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/weather.sh)
+#### <a target="_blank" href="https://github.com/uriel1998/weather.sh">weather.sh</a>  
 A Bash script that retrieves OpenWeatherMap data and outputs weather information to the terminal, Openbox, or HTML.
+
 ***
+ 
 ### May need work/updating
-[![quotable](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=quotable%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/quotable)
+#### <a target="_blank" href="https://github.com/uriel1998/quotable">quotable</a>  
 Combine Fortune, ImageMagick, and background images to create illustrated quotation cards.
-[![sshmaster](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=sshmaster%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/sshmaster)
+
+#### <a target="_blank" href="https://github.com/uriel1998/sshmaster">sshmaster</a>  
 Open SSH terminal windows with host-specific colors and icons so remote sessions are easier to distinguish.
 
-[![exercise_todoman](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=exercise_todoman%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/exercise_todoman)
+#### <a target="_blank" href="https://github.com/uriel1998/exercise_todoman">exercise_todoman</a>  
 A set of Todoman-based scripts for scheduling and tracking exercise while also recording and graphing weight.
 
-[![showdocs-wombat](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=showdocs-wombat%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/showdocs-wombat)
+#### <a target="_blank" href="https://uriel1998.github.io/showdocs-wombat">showdocs-wombat</a>  
+
 Parsing and converting documents on the fly in the terminal (or with a terminal popup) 
 
-[![ufw-iptables-archer](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=ufw-iptables-archer%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/ufw-iptables-archer)
+#### <a target="_blank" href="https://uriel1998.github.io/ufw-iptables-archer">ufw-iptables-archer</a>  
+
 Simplifying (I hope) UFW and iptables, includes a utility to get blocklists and incorporate them. 
 
-[![weather.sh](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=weather.sh%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/weather.sh)
+
+#### <a target="_blank" href="https://uriel1998.github.io/weather.sh">weather.sh</a>  
+
 A bash script to get the weather from OpenWeatherMap and output to the terminal, Openbox, or HTML 
 
-[![khalo](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=cgimpd%2Fgithub-readme-stats&theme=transparent)](https://uriel1998.github.io/cgimpd)
+
+#### <a target="_blank" href="https://uriel1998.github.io/cgimpd">khalo</a>  
+
 Using BASH to create a quick web based lyrics/art view of a playing MPD 
 instance, and using BASH and CGI to implement a web-based remote control for 
 MPD.
 
-[![CSV-to-QIF](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=CSV-to-QIF%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/CSV-to-QIF)
+#### <a target="_blank" href="https://github.com/uriel1998/CSV-to-QIF">CSV-to-QIF</a>  
 Convert broadly formatted CSV financial data into QIF files.
 
-[![saurian-web-history-pollution](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=saurian-web-history-pollution%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/saurian-web-history-pollution)
+#### <a target="_blank" href="https://github.com/uriel1998/saurian-web-history-pollution">saurian-web-history-pollution</a>  
 Generate distracting web-history traffic intended to make ISP browsing records less informative.
 
-[![networkcontrol-wicd-networkmanager](https://github-stats-extended.vercel.app/api/pin?username=uriel1998&repo=networkcontrol-wicd-networkmanager%2Fgithub-readme-stats&theme=transparent)](https://github.com/uriel1998/networkcontrol-wicd-networkmanager)
+#### <a target="_blank" href="https://github.com/uriel1998/networkcontrol-wicd-networkmanager">networkcontrol-wicd-networkmanager</a>  
 Run user-space commands automatically when network connections are established or disconnected through WICD or NetworkManager.
 
+***
+ 
+    

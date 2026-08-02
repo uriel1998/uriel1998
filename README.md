@@ -22,6 +22,9 @@ That's led to a lot of these being in BASH.  There's some BASHisms throughout,
 so they're not exactly POSIX-compliant, but hopefully they're close enough that 
 someone who is better at such than I can easily tweak them.
 
+Some repositories below have had varying amounts of work done by AI/LLMs. They are
+marked in the repository itself either through a text file or in the README.
+
 ------------------------------------------------------------------------------
 # Programming Work
 
